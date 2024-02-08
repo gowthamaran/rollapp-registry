@@ -1,35 +1,35 @@
 {
   "chainId": "gamee_9673766-1",
-  "chainName": "Maran's Network",
-  "rpc": "http://104.251.215.42:26657",
-  "rest": "http://104.251.215.42:1317",
-  "bech32Prefix": "ethm",
-  "currencies": [
-    {
-      "displayDenom": "game",
-      "baseDenom": "ugame",
-      "decimals": 18,
-      "logo": "/logos/gamee_9673766-1.png",
-      "type": "main"
-    }
-  ],
-  "coinType": 60,
-  "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
-  "website": "https://x.com/MaransCrypto",
-  "logo": "/logos/gamee_9673766-1.png",
-  "ibc": {
-    "hubChannel": "channel-9376",
-    "channel": "channel-0",
-    "timeout": 172800000
-  },
-  "evm": {
-    "chainId": "0x939c26",
-    "rpc": "http://104.237.2.78:8545"
-  },
-  "type": "RollApp",
-  "da": "Avail",
-  "description": "Thanks for playing around",
-  "analytics": true,
-  "goldberg": true,
-  "availAddress": "5CLfyyuKGF5HussWrzKAUMCrBoQMsw9Su9GGJMvg3Mn7RB2F"
+  "chainName": "Maran's Network",
+  "rpc": "http://104.251.215.42:26657",
+  "rest": "http://104.251.215.42:1317",
+  "bech32Prefix": "ethm",
+  "currencies": [
+    {
+      "displayDenom": "game",
+      "baseDenom": "ugame",
+      "decimals": 18,
+      "logo": "/logos/gamee_9673766-1.png",
+      "type": "main"
+    }
+  ],
+  "coinType": 60,
+  "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
+  "website": "https://x.com/MaransCrypto",
+  "logo": "/logos/gamee_9673766-1.png",
+  "ibc": {
+    "hubChannel": "channel-9376",
+    "channel": "channel-0",
+    "timeout": 172800000
+  },
+  "evm": {
+    "chainId": "0x939c26",
+    "rpc": "http://104.237.2.78:8545"
+  },
+  "goldberg": true,
+  "availAddress": "5CLfyyuKGF5HussWrzKAUMCrBoQMsw9Su9GGJMvg3Mn7RB2F",
+  "type": "RollApp",
+  "da": "Avail",
+  "description": "Thanks for playing around!!",
+  "analytics": true
 }
