@@ -1,4 +1,5 @@
-  "chainId": "gamee_9673766-1",
+{
+"chainId": "gamee_9673766-1",
   "chainName": "Maran's Network",
   "rpc": "http://104.251.215.42:26657",
   "rest": "http://104.251.215.42:1317",
